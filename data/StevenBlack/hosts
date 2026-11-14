@@ -2,6 +2,8 @@
 # Title: Hosts contributed by Steven Black
 # http://stevenblack.com
 
+0.0.0.0 ad-assets.futurecdn.net
+0.0.0.0 ck.getcookiestxt.com
 0.0.0.0 eu1.clevertap-prod.com
 0.0.0.0 wizhumpgyros.com
 0.0.0.0 coccyxwickimp.com
@@ -213,7 +215,7 @@
 0.0.0.0 api5.batmobil.net
 0.0.0.0 beauty-tea.com
 0.0.0.0 www.beauty-tea.com
-0.0.0.0 0.0.0.0.beeglivesex.com
+0.0.0.0 beeglivesex.com
 0.0.0.0 cdn.beginads.com
 0.0.0.0 www.cdn.beginads.com
 0.0.0.0 rotator.beginads.com
@@ -824,7 +826,6 @@
 0.0.0.0 a.faymobi.com
 0.0.0.0 fdn-en.net
 0.0.0.0 ads.feedly.com
-0.0.0.0 feylibertad.org
 0.0.0.0 fgddl9szdof7.com
 0.0.0.0 fgoogle.com
 0.0.0.0 www.fgoogle.com
@@ -837,7 +838,6 @@
 0.0.0.0 foodandcot.com
 0.0.0.0 fortnight.space
 0.0.0.0 fortnitechat.site
-0.0.0.0 api.fouanalytics.com
 0.0.0.0 found.ee
 0.0.0.0 free-dating-girls.online
 0.0.0.0 freeadult.games
@@ -864,7 +864,7 @@
 0.0.0.0 www.girlstofap.ga
 0.0.0.0 git-hub.co
 0.0.0.0 githb.co
-0.0.0.0 superlogout.github.io
+
 0.0.0.0 goodblock.gladly.io
 0.0.0.0 www.goodblock.gladly.io
 0.0.0.0 ad-dev.globalnoticias.pt
@@ -1017,7 +1017,6 @@
 0.0.0.0 samsung.apps.linkpc.net
 0.0.0.0 lismcanalys.fun
 0.0.0.0 nexus.officeapps.live.com
-0.0.0.0 nexusrules.officeapps.live.com
 0.0.0.0 livechatinc.org
 0.0.0.0 cradver.livejasmin.com
 0.0.0.0 crt.livejasmin.com
@@ -1304,7 +1303,6 @@
 0.0.0.0 ads.samsungads.com
 0.0.0.0 config.samsungads.com
 0.0.0.0 events.samsungads.com
-0.0.0.0 oempprd.samsungcloudsolution.com
 0.0.0.0 vdterms.samsungcloudsolution.com
 0.0.0.0 oempprd.samsungcloudsolution.net
 0.0.0.0 invitation.samsungiotcloud.com
@@ -1429,7 +1427,6 @@
 0.0.0.0 cross-promos.tuanguwen.com
 0.0.0.0 word-res.tuanguwen.com
 0.0.0.0 word-v1.tuanguwen.com
-0.0.0.0 castoola.tv.lan
 0.0.0.0 tvpage.com
 0.0.0.0 a.tvpage.com
 0.0.0.0 api.tvpage.com
@@ -1563,7 +1560,6 @@
 0.0.0.0 xn--yotu-1ra.be
 0.0.0.0 xskcjzamlkxwo.gq
 0.0.0.0 beap-bc.yahoo.com
-0.0.0.0 fc.yahoo.com
 0.0.0.0 pr-bh.ybp.yahoo.com
 0.0.0.0 adscan.yelabapp.com
 0.0.0.0 fresh.ygto.com
@@ -2229,9 +2225,6 @@
 0.0.0.0 amusingdates.net
 0.0.0.0 honey-date4u.life
 
-# Added August 3, 2022
-0.0.0.0 secur.hopp.to
-
 # Added August 9, 2022
 0.0.0.0 shopsplumbing.com
 
@@ -2290,3 +2283,1046 @@
 0.0.0.0 bramka.org
 0.0.0.0 ustreamix.su
 0.0.0.0 inatv.pl
+
+# Added September 7, 2022
+0.0.0.0 tracking.minitool.com
+
+# Added September 9, 2022
+0.0.0.0 pasiekazlotoklos.pl
+
+# Added September 12, 2022
+0.0.0.0 eu-commercialb.com
+
+# Added September 29, 2022
+0.0.0.0 gratlfyingdates.net
+0.0.0.0 www.gratlfyingdates.net
+
+# Added October 15, 2022
+0.0.0.0 filmsexeporno.com
+
+# Added October 24, 2022
+0.0.0.0 supdqwepu.com
+0.0.0.0 vawardquac.com
+0.0.0.0 lemmingro.com
+
+# Added October 27, 2022
+0.0.0.0 flashrewards.co
+
+# Added November 13, 2022
+0.0.0.0 info-eastflirts.com
+0.0.0.0 www.info-eastflirts.com
+
+# Added November 20, 2022
+0.0.0.0 reporting-api.gannettinnovation.com
+
+# Added November 26, 2022
+0.0.0.0 1041598d1a.da1a0e7bb3.com
+0.0.0.0 12112336.pix-cdn.org
+0.0.0.0 1d3c8a1eaa.faeaeeaafa.com
+0.0.0.0 acceptable.a-ads.com
+0.0.0.0 addresseepaper.com
+0.0.0.0 banquetunarmedgrater.com
+0.0.0.0 cdn.barscreative1.com
+0.0.0.0 cdn.cloudimagesb.com
+0.0.0.0 cdn.creative-bars1.com
+0.0.0.0 cdn.tubecorp.com
+0.0.0.0 cdn18383040.ahacdn.me
+0.0.0.0 friendshipmale.com
+0.0.0.0 i.cdnkimg.com
+0.0.0.0 icon.eu.mndsrv.com
+0.0.0.0 iconcnd.net
+0.0.0.0 in16.zog.link
+0.0.0.0 js.canstrm.com
+0.0.0.0 js.natsdk.com
+0.0.0.0 js.wpadmngr.com
+0.0.0.0 lcdn.tsyndicate.com
+0.0.0.0 na.nawpush.com
+0.0.0.0 native-track.com
+0.0.0.0 parkingridiculous.com
+0.0.0.0 prombid.com
+0.0.0.0 pxl.tsyndicate.com
+0.0.0.0 s-img.adskeeper.com
+0.0.0.0 s.uuidksinc.net
+0.0.0.0 s.viiqvmfb.com
+0.0.0.0 soldierreproduceadmiration.com
+0.0.0.0 tcimp.zog.link
+0.0.0.0 tsyndicate.com
+0.0.0.0 unseenreport.com
+0.0.0.0 veilsuccessfully.com
+0.0.0.0 veneeringextremely.com
+0.0.0.0 bestgames-2022.com
+0.0.0.0 fp.metricswpsh.com
+0.0.0.0 spikereekvelocity.com
+0.0.0.0 www.gaming-adult.com
+0.0.0.0 mediasama.com
+0.0.0.0 danbo.org
+
+# Added November 27, 2022
+0.0.0.0 crmt.livejasmin.com
+
+# Added December 4, 2022. Malware domains using TXT record to transfer powershell scripts.
+0.0.0.0 wmail-endpoint.com
+0.0.0.0 wmail-blog.com
+0.0.0.0 wmail-chat.com
+0.0.0.0 wmail-cdn.com
+0.0.0.0 wmail-schnellvpn.com
+0.0.0.0 fairu-endpoint.com
+0.0.0.0 fairu-blog.com
+0.0.0.0 fairu-chat.com
+0.0.0.0 fairu-cdn.com
+0.0.0.0 fairu-schnellvpn.com
+0.0.0.0 bideo-endpoint.com
+0.0.0.0 bideo-blog.com
+0.0.0.0 bideo-chat.com
+0.0.0.0 bideo-cdn.com
+0.0.0.0 bideo-schnellvpn.com
+0.0.0.0 privatproxy-endpoint.com
+0.0.0.0 privatproxy-blog.com
+0.0.0.0 privatproxy-chat.com
+0.0.0.0 privatproxy-cdn.com
+0.0.0.0 privatproxy-schnellvpn.com
+0.0.0.0 ahoravideo-endpoint.com
+0.0.0.0 ahoravideo-blog.com
+0.0.0.0 ahoravideo-chat.com
+0.0.0.0 ahoravideo-cdn.com
+0.0.0.0 ahoravideo-schnellvpn.com
+0.0.0.0 wmail-endpoint.xyz
+0.0.0.0 wmail-blog.xyz
+0.0.0.0 wmail-chat.xyz
+0.0.0.0 wmail-cdn.xyz
+0.0.0.0 wmail-schnellvpn.xyz
+0.0.0.0 fairu-endpoint.xyz
+0.0.0.0 fairu-blog.xyz
+0.0.0.0 fairu-chat.xyz
+0.0.0.0 fairu-cdn.xyz
+0.0.0.0 fairu-schnellvpn.xyz
+0.0.0.0 bideo-endpoint.xyz
+0.0.0.0 bideo-blog.xyz
+0.0.0.0 bideo-chat.xyz
+0.0.0.0 bideo-cdn.xyz
+0.0.0.0 bideo-schnellvpn.xyz
+0.0.0.0 privatproxy-endpoint.xyz
+0.0.0.0 privatproxy-blog.xyz
+0.0.0.0 privatproxy-chat.xyz
+0.0.0.0 privatproxy-cdn.xyz
+0.0.0.0 privatproxy-schnellvpn.xyz
+0.0.0.0 ahoravideo-endpoint.xyz
+0.0.0.0 ahoravideo-blog.xyz
+0.0.0.0 ahoravideo-chat.xyz
+0.0.0.0 ahoravideo-cdn.xyz
+0.0.0.0 ahoravideo-schnellvpn.xyz
+
+# Added December 4, 2022
+0.0.0.0 cesareurope.com
+0.0.0.0 cws-hotstar.conviva.com
+0.0.0.0 events-analytics.hotstar.com
+0.0.0.0 logs.hotstar.com
+0.0.0.0 service.hotstar.com
+0.0.0.0 settings-analytics.hotstar.com
+0.0.0.0 videoads.hotstar.com
+0.0.0.0 vs.hotstar.com
+
+# Added December 11, 2022
+0.0.0.0 analytics.shein.com
+0.0.0.0 analytics.shein.co.uk
+
+# Added December 29, 2022
+0.0.0.0 8a97175fd63e1d3a69f36979b9b34470.safeframe.googlesyndication.com
+0.0.0.0 c2shb.pubgw.yahoo.com
+0.0.0.0 cdn.confiant-integrations.net
+0.0.0.0 cdn.hadronid.net
+0.0.0.0 cdn.id5-sync.com
+0.0.0.0 cdn.prod.uidapi.com
+0.0.0.0 curvedhoney.com
+0.0.0.0 dnacdn.net
+0.0.0.0 freestar-d.openx.net
+0.0.0.0 freestar-io.videoplayerhub.com
+0.0.0.0 oa.openxcdn.net
+0.0.0.0 s2s.t13.io
+
+# Added January 11, 2023
+0.0.0.0 btc8886.com
+0.0.0.0 en.xachinaproject.fun
+
+# Added January 12, 2023
+0.0.0.0 antihohol.cloud
+0.0.0.0 hosteagle.club
+0.0.0.0 anz-shield-secure.com
+0.0.0.0 alert-bendigobank.com
+0.0.0.0 linkt-transport.top
+0.0.0.0 linkt-help.top
+
+# Added January 13, 2023
+0.0.0.0 reviewmygov.tuquy.com
+0.0.0.0 auspost-record.com
+0.0.0.0 alert-auspost.com
+0.0.0.0 auspost-input.com
+
+# Added January 22, 2023
+0.0.0.0 vep.hautnah-kosmetik-grafenau.de
+0.0.0.0 ttri.kanzlei-ecklmaier.de
+0.0.0.0 d-stuff.cfd
+0.0.0.0 ruhrboudoir.de
+0.0.0.0 d-bring.cfd
+0.0.0.0 obev.pauya.de
+0.0.0.0 dimoradellapizzuta.it
+0.0.0.0 misanoassicurazioni.it
+0.0.0.0 d-enemy.cfd
+0.0.0.0 sindelfingen-haarentfernung.de
+0.0.0.0 asdpoliziamunicipalepa.it
+0.0.0.0 mf-massoterapia.it
+0.0.0.0 tyty.lolokira.lol
+0.0.0.0 yord.serawent-pole.lol
+0.0.0.0 redivosrl.it
+
+# Added January 23, 2023
+0.0.0.0 products.gobankingrates.com
+0.0.0.0 cdn.rates.consumertrack.com
+0.0.0.0 ads-api.twitter.com
+
+# Added February 7, 2023
+0.0.0.0 aax-dtb-cf.amazon-adsystem.com
+0.0.0.0 assets-jpcust.jwpsrv.com
+0.0.0.0 fundingchoicesmessages.google.com
+0.0.0.0 images.twnmm.com
+0.0.0.0 prod.us-east-1.cxm-bcn.publisher-services.amazon.dev
+0.0.0.0 secure.cdn.fastclick.ne
+0.0.0.0 twngcpbidder.lb.engagecore.com
+0.0.0.0 assets-jpcust.jwpsrv.com
+
+# Added March 7, 2023
+0.0.0.0 a125375509.cdn.optimizely.com
+0.0.0.0 cdn.cookielaw.org
+0.0.0.0 cdn.indexww.com
+
+# Added March 25, 2023
+0.0.0.0 wpad.www.tendawifi.com
+0.0.0.0 crprt.livejasmin.com
+
+# Added March 28, 2023
+0.0.0.0 grow.gab.com
+
+# Added April 3, 2023
+0.0.0.0 transive.top
+0.0.0.0 warehousesale.shop
+
+# Added April 4, 2023
+0.0.0.0 fpjscdn.net
+0.0.0.0 api.fpjs.io
+0.0.0.0 use1.fptls.com
+0.0.0.0 use1.fptls3.com
+
+# Added April 7, 2023
+0.0.0.0 d2uap9jskdzp2.cloudfront.net
+0.0.0.0 steadfastseat.com
+0.0.0.0 eq97f.publishers.tremorhub.com
+
+# Added April 13, 2023
+0.0.0.0 wota-tournament.com
+
+# Added April 19, 2023
+0.0.0.0 rukalebi.ru
+0.0.0.0 bueromoebelservice.com
+
+# Added April 21, 2023
+0.0.0.0 beautydates.cn
+0.0.0.0 www.beautydates.cn
+0.0.0.0 hhoneyann96.beautydates.cn
+0.0.0.0 nilaima.com
+0.0.0.0 www.nilaima.com
+
+# Added April 27, 2023
+0.0.0.0 www.gameitlive.com
+0.0.0.0 gameitlive.com
+
+# Added April 28, 2023
+0.0.0.0 stripchat.com
+
+# Added April 29, 2023
+0.0.0.0 crmpt.livejasmin.com
+
+# Added May 2, 2023
+0.0.0.0 claudfront.net
+0.0.0.0 allowlisted.net
+0.0.0.0 atlas-upd.com
+0.0.0.0 ads-tm-glb.click
+0.0.0.0 cbox4.ignorelist.com
+0.0.0.0 hsdps.cc
+0.0.0.0 api.sprig.com
+
+# Added May 15, 2023
+0.0.0.0 telemetry-cii.api.playstation.com
+
+# Added May 19, 2023
+0.0.0.0 clorec4.net
+0.0.0.0 wu.idismfonts.com
+0.0.0.0 xml-eu.flairadscpc.com
+
+# Added May 30, 2023
+0.0.0.0 serasearchtop.com
+0.0.0.0 track.atom-ds.com
+
+# Added June 3, 2023
+0.0.0.0 addatamarket.net
+0.0.0.0 backuprabbit.com
+0.0.0.0 businessvideonews.com
+0.0.0.0 cloudsponcer.com
+0.0.0.0 datamarketplace.net
+0.0.0.0 mobilegamerstats.com
+0.0.0.0 snoweeanalytics.com
+0.0.0.0 tagclick-cdn.com
+0.0.0.0 topographyupdates.com
+0.0.0.0 unlimitedteacup.com
+0.0.0.0 virtuallaughing.com
+0.0.0.0 web-trackers.com
+0.0.0.0 growthtransport.com
+0.0.0.0 anstv.net
+0.0.0.0 ans7tv.net
+0.0.0.0 123-vendasvoos25.lovestoblog.com
+0.0.0.0 c-123milhas.shop
+
+# Added June 13, 2023
+0.0.0.0 assistant-chronopost.com
+0.0.0.0 zhihu-web-analytics.zhihu.com
+
+# Added July 4, 2023
+0.0.0.0 stmicroelectronics.d3.sc.omtrdc.net
+
+0.0.0.0 giyhub.com
+0.0.0.0 d2wzkjnj9pfptq.cloudfront.net
+0.0.0.0 storiesnexus.com
+0.0.0.0 rumadel.com
+
+# Added August 8, 2023
+0.0.0.0 ms4.applvn.com
+0.0.0.0 adsninjacdn.b-cdn.net
+0.0.0.0 cdn.adsninja.ca
+0.0.0.0 nom.telemetrydeck.com
+0.0.0.0 api.ibeat-analytics.com
+0.0.0.0 mads.amazon.com
+
+# Add August 9, 2023
+0.0.0.0 s2.bl-1.com
+
+# Added August 10, 2023
+0.0.0.0 w61.1piecemanga.com
+0.0.0.0 fbet.com
+0.0.0.0 stemboastfulrattle.com
+0.0.0.0 onwardrespirationcommandment.com
+
+# Added October 13, 2023
+0.0.0.0 s.dmmew.com
+
+# Added November 2, 2023
+0.0.0.0 run.cntxtfl.com
+0.0.0.0 live-manifests-lln.warnermediacdn.com
+0.0.0.0 live-manifests-aka.warnermediacdn.com
+0.0.0.0 logs.browser-intake-datadoghq.com
+
+# Added November 3, 2023
+0.0.0.0 b2b6d102cb7a4898bc54a3b73e31b759.safeframe.googlesyndication.com
+0.0.0.0 cpm.didna.io
+0.0.0.0 hb.minutemedia-prebid.com
+0.0.0.0 ox-rtb-us-east1.openx.net
+0.0.0.0 ox-rtb-us-east4.openx.net
+0.0.0.0 pbs.nextmillmedia.com
+0.0.0.0 report2.hb.brainlyads.com
+0.0.0.0 ssp-sync.criteo.com
+0.0.0.0 st.pubmatic.com
+
+# Added November 9, 2023
+0.0.0.0 beacons5.gvt2.com
+0.0.0.0 beacons4.gvt2.com
+0.0.0.0 beacons3.gvt2.com
+0.0.0.0 beacons2.gvt2.com
+
+# Added November 21, 2023
+0.0.0.0 pickanewdeliverytime.com
+
+# Added November 24, 2023
+0.0.0.0 80d4b6e40cc712bf92fcdbabdd4345fd.safeframe.googlesyndication.com
+0.0.0.0 a6709203f34992a5095d2bc7ceaf2ec504f651a8.cws.conviva.com
+0.0.0.0 a.jsrdn.com
+0.0.0.0 atom.warnermedia.com
+0.0.0.0 d9esmwyn3ffr1.cloudfront.net
+0.0.0.0 dqif5bl25s0bf.cloudfront.net
+0.0.0.0 healthguides.cnn.com
+0.0.0.0 ipv4.cws.conviva.com
+0.0.0.0 licensing.bitmovin.com
+0.0.0.0 live-media-aka.warnermediacdn.com
+0.0.0.0 registry.api.cnn.io
+0.0.0.0 s.cdn.turner.com
+0.0.0.0 turnip.cdn.turner.com
+0.0.0.0 vi.ml314.com
+0.0.0.0 vod-media-aka.warnermediacdn.com
+0.0.0.0 warnermediagroup-com.videoplayerhub.com
+0.0.0.0 www.i.cdn.cnn.com
+0.0.0.0 d32ajg1ye8vnl9.cloudfront.net
+0.0.0.0 dvqcs4w0eo35b.cloudfront.net
+0.0.0.0 facf31c1c8559131d653f3c5ad4ecc78.safeframe.googlesyndication.com
+0.0.0.0 i.jsrdn.com
+0.0.0.0 lb.eu-1-id5-sync.com
+0.0.0.0 live-media-lln.warnermediacdn.com
+0.0.0.0 zion.api.cnn.io
+
+# Added November 25, 2023
+0.0.0.0 bucket.cdnwebcloud.com
+0.0.0.0 c23811bc8d067cdb4f00f6af2c918f3d.safeframe.googlesyndication.com
+0.0.0.0 cadmus.script.ac
+0.0.0.0 cdn.topsrvimp.com
+0.0.0.0 cookies.nextmillmedia.com
+0.0.0.0 didna.b-cdn.net
+0.0.0.0 exchange.kueezrtb.com
+0.0.0.0 neural40.cdnwebcloud.com
+0.0.0.0 rt.marphezis.com
+0.0.0.0 sync.colossusssp.com
+0.0.0.0 sync.kueezrtb.com
+0.0.0.0 t.adx.opera.com
+0.0.0.0 web.hb.ad.cpe.dotomi.com
+
+# Added December 17, 2023
+0.0.0.0 co.vaicore.site
+0.0.0.0 int.vaicore.site
+
+# Added December 28, 2023
+0.0.0.0 rtnl.bxcl.de
+
+# Added February 11, 2024
+0.0.0.0 product-cdn.liftoff-creatives.io
+0.0.0.0 preview.liftoff-creatives.io
+0.0.0.0 adexp.liftoff.io
+0.0.0.0 analytics.liftoff.io
+0.0.0.0 applovin-europe-rtb.liftoff.io
+0.0.0.0 appodeal-asia-rtb.liftoff.io
+0.0.0.0 appodeal-europe-rtb.liftoff.io
+0.0.0.0 appodeal-rtb.liftoff.io
+0.0.0.0 bigo-asia-rtb.liftoff.io
+0.0.0.0 bigo-europe-rtb.liftoff.io
+0.0.0.0 bigo-rtb.liftoff.io
+0.0.0.0 build-cdn.liftoff.io
+0.0.0.0 cdn.liftoff.io
+0.0.0.0 click4.liftoff.io
+0.0.0.0 click.liftoff.io
+0.0.0.0 impression-asia.liftoff.io
+0.0.0.0 impression-east.liftoff.io
+0.0.0.0 impression-europe.liftoff.io
+0.0.0.0 lb-rtb-europe.liftoff.io
+0.0.0.0 privacy.liftoff.io
+0.0.0.0 rtbnotify.liftoff.io
+0.0.0.0 biddingmax.apse.trk.rixserv.com
+0.0.0.0 et-l.w.inmobi.com
+0.0.0.0 i.l-new.inmobicdn.net
+0.0.0.0 cdn.liftoff-creatives.io
+0.0.0.0 statistik.changing-cities.org
+
+# Added March 10, 2024
+0.0.0.0 mcgthfrqrs95vdbzkhtchf5fc0g4.device.marketingcloudapis.com
+
+# Added March 12, 2024
+0.0.0.0 crpdt.livejasmin.com
+
+# Added March 21, 2024
+0.0.0.0 justtrack-logs.justtrack.io
+0.0.0.0 sdk-api.justtrack.io
+0.0.0.0 prod.adjoe-programmatic.com
+
+# Added March 28, 2024
+0.0.0.0 argo.svcmot.com
+
+# Added April 3, 2024
+0.0.0.0 canadapost.ca-help-h.top
+
+# Added April 8, 2024
+0.0.0.0 notepad.plus
+
+# Added April 13, 2024
+0.0.0.0 alertcibcsecuremobile.com
+
+# Added April 24, 2024
+0.0.0.0 sadostic.pl
+0.0.0.0 www.sadostic.pl
+
+# Added April 28, 2024
+0.0.0.0 ejuiashsateam.info
+0.0.0.0 www.ejuiashsateam.info
+
+# Added May 3, 2024
+0.0.0.0 twitterr.com
+0.0.0.0 ww25.twitterr.com
+
+# Added May 19, 2024
+0.0.0.0 urdxh.com
+
+# Added May 30, 2024
+0.0.0.0 logs.netflix.com
+
+# Added June 26, 2024
+0.0.0.0 mailsupport-24f7f1500ed129bc71f2ad9c06fe1e73.pages.dev
+
+# Added July 7, 2024
+0.0.0.0 aeventlog.beacon.qq.com
+0.0.0.0 astrategy.beacon.qq.com
+0.0.0.0 tdid.m.qq.com
+0.0.0.0 c.adsco.re
+0.0.0.0 4.adsco.re
+0.0.0.0 6.adsco.re
+0.0.0.0 frwrz661fasv.l4.adsco.re
+0.0.0.0 frwrz661fasv.n4.adsco.re
+0.0.0.0 frwrz661fasv.s4.adsco.re
+
+# Added July 27, 2024
+0.0.0.0 tracker.nitropay.com
+
+# Added August 30, 2024
+0.0.0.0 grid-bidder.criteo.com
+0.0.0.0 a-ring.msedge.net
+0.0.0.0 k-ring.msedge.net
+0.0.0.0 hb.yellowblue.io
+0.0.0.0 gtrack.kueezrtb.com
+0.0.0.0 hb-api.omnitagjs.com
+
+# Added September 1, 2024
+0.0.0.0 analytics.intelliscapesolutions.com
+
+# Added September 5, 2024
+0.0.0.0 1000fapvids.online
+0.0.0.0 ddbca.localmeets.link
+
+# Added September 6, 2024
+0.0.0.0 browser-intake-datadoghq.com
+
+# Added September 16, 2024
+0.0.0.0 westus-0.in.applicationinsights.azure.com
+0.0.0.0 default.exp-tas.com
+
+# Added September 17, 2024
+0.0.0.0 api.receptivity.io
+0.0.0.0 commentaires.qub.ca
+0.0.0.0 indicedebonheur.com
+
+# Added September 21, 2024
+0.0.0.0 ads-static.phonepe.com
+
+# Added September 25, 2024
+0.0.0.0 gotoyahoo.com
+
+# Added September 27, 2024
+0.0.0.0 two.opensourced.us
+
+# Added October 2, 2024
+0.0.0.0 api.adnz.co
+0.0.0.0 xd.adnz.co
+
+# Added October 9, 2024
+0.0.0.0 canada.postcanadantwb.top
+
+# Added October 10, 2024
+0.0.0.0 flowto.it
+
+# Added October 11, 2024
+0.0.0.0 5197248-trckp05t.com
+
+# Added October 12, 2024
+0.0.0.0 api-visitor-analytics.intercom.com
+
+# Added October 13, 2024
+0.0.0.0 region1.google-analytics.com
+0.0.0.0 starshipstart.com
+
+# Added October 17, 2024
+0.0.0.0 delivery-schedule.com
+0.0.0.0 rustdesk.io
+0.0.0.0 rustdesk.pl
+0.0.0.0 rustdesk.co.nz
+0.0.0.0 rustdesk.secure-box.de
+
+# Added October 28, 2024
+0.0.0.0 tiny.centralacp.com
+
+# Added October 31, 2024
+0.0.0.0 j3lbpcd9.r.us-east-1.awstrack.me
+
+# Added December 1, 2024
+0.0.0.0 canada.postscanadafil.top
+
+# Added December 4, 2024
+0.0.0.0 html-load.com
+
+0.0.0.0 vs-api.voodoo-tech.io
+0.0.0.0 vg-aws-ad-track-sdk-us-east-1a.mtgglobals.com
+0.0.0.0 logger2.playablefactory.app
+0.0.0.0 o-sdk.mediation.unity3d.com
+0.0.0.0 events.ads.vungle.com
+0.0.0.0 o.isx.unity3d.com
+0.0.0.0 gw.mediation.unity3d.com
+0.0.0.0 noti-us.adsmoloco.com
+0.0.0.0 o.iads.unity3d.com
+0.0.0.0 w.isx.unity3d.com
+0.0.0.0 adn-collector.voodoo-tech.io
+0.0.0.0 vg-aws-ad-track-sdk-us-east-1b.mtgglobals.com
+0.0.0.0 cdn-adn-https-new.mtgglobals.com
+0.0.0.0 net-vg-cdn.mtgglobals.com
+0.0.0.0 vg-aws-cdn-us-east-1a-hb-bid-feedback.mtgglobals.com
+0.0.0.0 o-iab-imp-counters.mediation.unity3d.com
+0.0.0.0 o-iab-notifications.mediation.unity3d.com
+0.0.0.0 ae.iads.unity3d.com
+0.0.0.0 gw-rv.iads.unity3d.com
+0.0.0.0 icon-uap.iads.unity3d.com
+0.0.0.0 img-dyn-uap.iads.unity3d.com
+0.0.0.0 vid-uap.iads.unity3d.com
+0.0.0.0 vg-ali-ad-track-sdk.mtgglobals.com
+0.0.0.0 l1.audiomob.com
+0.0.0.0 o-adq.mediation.unity3d.com
+0.0.0.0 gateway.unityads.unity3d.com
+0.0.0.0 scar.unityads.unity3d.com
+
+# Added December 16, 2024
+0.0.0.0 ofbel.com
+
+# Added December 18, 2024
+0.0.0.0 candeliverypostca.com
+
+# Added December 20, 2024
+0.0.0.0 ads.heytapmobi.com
+0.0.0.0 ads.heytapmobile.com
+0.0.0.0 ads.oppomobile.com
+0.0.0.0 adx-f.ads.heytapmobi.com
+0.0.0.0 adx-f.ads.heytapmobile.com
+0.0.0.0 adx-id.ads.heytapmobi.com
+0.0.0.0 adx-id.ads.heytapmobile.com
+0.0.0.0 adx-id.ads.oppomobile.com
+0.0.0.0 adx-in.ads.heytapmobi.com
+0.0.0.0 adx-in.ads.heytapmobile.com
+0.0.0.0 adx-in.ads.oppomobile.com
+0.0.0.0 adx-kh.ads.heytapmobile.com
+0.0.0.0 adx-mm.ads.heytapmobile.com
+0.0.0.0 adx-my.ads.heytapmobile.com
+0.0.0.0 adx-ph.ads.heytapmobile.com
+0.0.0.0 adx-sg.ads.heytapmobi.com
+0.0.0.0 adx-sg.ads.heytapmobile.com
+0.0.0.0 adx-th.ads.heytapmobile.com
+0.0.0.0 adx-tw.ads.heytapmobile.com
+0.0.0.0 adx-vn.ads.heytapmobile.com
+0.0.0.0 adx.ads.heytapmobi.com
+0.0.0.0 b1-data.ads.heytapmobi.com
+0.0.0.0 b2-data.ads.heytapmobi.com
+0.0.0.0 bdapi-id.ads.heytapmobi.com
+0.0.0.0 bdapi-id.ads.heytapmobile.com
+0.0.0.0 bdapi-id.ads.oppomobile.com
+0.0.0.0 bdapi-in.ads.heytapmobi.com
+0.0.0.0 bdapi-in.ads.heytapmobile.com
+0.0.0.0 bdapi-in.ads.oppomobile.com
+0.0.0.0 bdapi.ads.heytapmobi.com
+0.0.0.0 bjdata.ads.oppomobile.com
+0.0.0.0 ck.ads.heytapmobi.com
+0.0.0.0 ck.ads.oppomobile.com
+0.0.0.0 cl-data-f.ads.heytapmobi.com
+0.0.0.0 cl-data-f.ads.heytapmobile.com
+0.0.0.0 cl-data-id.ads.heytapmobi.com
+0.0.0.0 cl-data-id.ads.heytapmobile.com
+0.0.0.0 cl-data-in.ads.heytapmobi.com
+0.0.0.0 cl-data-in.ads.heytapmobile.com
+0.0.0.0 cl-data-my.ads.heytapmobile.com
+0.0.0.0 cl-data-sg.ads.heytapmobi.com
+0.0.0.0 cl-data-sg.ads.heytapmobile.com
+0.0.0.0 cl-data-vn.ads.heytapmobile.com
+0.0.0.0 cl-data.ads.heytapmobi.com
+0.0.0.0 darvin-ec.ads.heytapmobi.com
+0.0.0.0 data-f.ads.oppomobile.com
+0.0.0.0 data-in.ads.oppomobile.com
+0.0.0.0 data.ads.heytapmobi.com
+0.0.0.0 dataf.ads.oppomobile.com
+0.0.0.0 sapi.ads.oppomobile.com
+0.0.0.0 sms-sg.ads.heytapmobile.com
+0.0.0.0 sms.ads.heytapmobi.com
+0.0.0.0 sms.ads.oppomobile.com
+0.0.0.0 ssp-adx.ads.heytapmobi.com
+0.0.0.0 stg-data-f.ads.heytapmobi.com
+0.0.0.0 stg-data-f.ads.heytapmobile.com
+0.0.0.0 stg-data-id.ads.heytapmobi.com
+0.0.0.0 stg-data-id.ads.heytapmobile.com
+0.0.0.0 stg-data-in.ads.heytapmobi.com
+0.0.0.0 stg-data-in.ads.heytapmobile.com
+0.0.0.0 stg-data-kh.ads.heytapmobile.com
+0.0.0.0 stg-data-mm.ads.heytapmobile.com
+0.0.0.0 stg-data-my.ads.heytapmobile.com
+0.0.0.0 stg-data-ph.ads.heytapmobile.com
+0.0.0.0 stg-data-ru.ads.heytapmobile.com
+0.0.0.0 stg-data-sg.ads.heytapmobi.com
+0.0.0.0 stg-data-sg.ads.heytapmobile.com
+0.0.0.0 stg-data-th.ads.heytapmobile.com
+0.0.0.0 stg-data-tw.ads.heytapmobile.com
+0.0.0.0 stg-data-vn.ads.heytapmobile.com
+0.0.0.0 stg-data.ads.heytapmobi.com
+0.0.0.0 t-id.ads.heytapmobile.com
+0.0.0.0 t-in.ads.heytapmobile.com
+0.0.0.0 uapi.ads.heytapmobi.com
+0.0.0.0 wifi.ads.oppomobile.com
+
+0.0.0.0 ts.amazon-adsystem.com
+0.0.0.0 tracker.zmaticoo.com
+0.0.0.0 i-adq.mediation.unity3d.com
+0.0.0.0 i-sdk.mediation.unity3d.com
+0.0.0.0 cdn.iads.unity3d.com
+0.0.0.0 a-iad3.1rx.io
+0.0.0.0 cdn.zmaticoo.com
+0.0.0.0 o209266.ingest.us.sentry.io
+0.0.0.0 zmaticoo.funsdata.com
+0.0.0.0 sdk-api.maticooads.com
+0.0.0.0 sts.applovin.com
+0.0.0.0 check-tcp.rayjump.com
+0.0.0.0 configure-tcp.rayjump.com
+0.0.0.0 lazy-tcp.rayjump.com
+0.0.0.0 policy-tcp.rayjump.com
+0.0.0.0 observe-tcp.mtgglobals.com
+0.0.0.0 configure-tcp-android.mtgglobals.com
+0.0.0.0 cdn-adn-https.mtgglobals.com
+0.0.0.0 hybird.mtgglobals.com
+0.0.0.0 api.revenuads.com
+
+# Added December 23, 2024
+0.0.0.0 joinhoney.com
+0.0.0.0 www.joinhoney.com
+
+# Added December 31, 2024
+0.0.0.0 scomobilehelp.com
+
+# Added January 8, 2025
+0.0.0.0 paqueteriadhl.com.mx
+
+# Added February 17, 2025
+0.0.0.0 hoppingtheglobe.com
+0.0.0.0 firebaselogging-pa.googleapis.com
+
+# Added March 7, 2025
+0.0.0.0 cdn.yektanet.com
+0.0.0.0 biscotti.yektanet.com
+0.0.0.0 ua.yektanet.com
+0.0.0.0 static1.intrack.ir
+0.0.0.0 kilo.intrack.ir
+0.0.0.0 mq.intrack.ir
+0.0.0.0 static.adverge.ir
+0.0.0.0 cdn.goftino.com
+0.0.0.0 beta.kaprila.com
+0.0.0.0 panel.kaprila.com
+
+# Added March 28, 2025
+0.0.0.0 streamboo.com
+
+# Added April 1, 2025
+0.0.0.0 rosysolvingscallion.com
+
+# Added April 5, 2025
+0.0.0.0 photo-reaktivieren.org
+
+# Added April 9, 2025
+0.0.0.0 startseite24.net
+
+# Added April 21, 2025
+0.0.0.0 rcvlink.com
+
+# Added May 8, 2025
+0.0.0.0 clientennota-webnl.ddns.info
+
+# Added June 25, 2025
+0.0.0.0 afs.googlesyndication.com
+0.0.0.0 analyticsengine.s3.amazonaws.com
+0.0.0.0 analytics.s3.amazonaws.com
+0.0.0.0 mediavisor.doubleclick.net
+0.0.0.0 adm.hotjar.com
+0.0.0.0 ads-api.tiktok.com
+0.0.0.0 ads-sg.tiktok.com
+0.0.0.0 analytics-sg.tiktok.com
+0.0.0.0 adtech.yahooinc.com
+0.0.0.0 adfstat.yandex.ru
+0.0.0.0 adfox.yandex.ru
+0.0.0.0 bdapi-ads.realmemobile.com
+0.0.0.0 bdapi-in-ads.realmemobile.com
+
+# Added July 3, 2025
+0.0.0.0 my-tracknl.com
+
+# Added August 3, 2025
+0.0.0.0 trk.na.patagonia.com
+
+# Added August 8, 2025
+0.0.0.0 ads.playstream.media
+0.0.0.0 pscontent.playstream.media
+0.0.0.0 cdn.playstream.media
+0.0.0.0 prodcdn.playstream.media
+
+# Added August 13, 2025
+0.0.0.0 zopro.duckdns.org
+
+# Added August 14, 2025
+0.0.0.0 analytics.arz.at
+
+# added September 14, 2025
+0.0.0.0 eventcra.com
+
+# added September 15, 2025
+0.0.0.0 safalindustries.com
+
+# added September 22, 2025
+0.0.0.0 cryptocurrency.market
+
+# added October 2, 2025
+0.0.0.0 log.cookieyes.com
+0.0.0.0 directory.cookieyes.com
+
+# Added October 12, 2025
+0.0.0.0 xpoalswwkjddsljsy.com
+0.0.0.0 xoiiasdpsdoasdpojas.com
+
+# Added November 7, 2025
+0.0.0.0 d2.ads.rmbl.ws
+0.0.0.0 a.ads.rmbl.ws
+
+# Added November 11, 2025
+0.0.0.0 st5fdbvs.r.us-east-1.awstrack.me
+0.0.0.0 fullgamingacc.com
+
+# Added November 15, 2025
+0.0.0.0 enstat.xbext.com
+0.0.0.0 enappstat.xbext.com
+
+# Added November 24, 2025
+0.0.0.0 zpr.io
+
+# Added November 29, 2025
+0.0.0.0 tillequal.com
+0.0.0.0 html-load.cc
+
+# Added December 4, 2025
+0.0.0.0 colombia.ru.com
+0.0.0.0 fasss62r9nowzzz.z13.web.core.windows.net
+0.0.0.0 etonynew345zzz.z13.web.core.windows.net
+
+# Added December 11, 2025
+0.0.0.0 foldexmoon.fun
+0.0.0.0 foldexmoon.shop
+0.0.0.0 foldexmoon.today
+0.0.0.0 foldexmoon.top
+0.0.0.0 foldexmoon.world
+0.0.0.0 foldexmoon.xyz
+0.0.0.0 instant-mac.com
+
+# Added December 15, 2025
+0.0.0.0 pixelfy.me
+
+# Added December 26, 2025
+0.0.0.0 logs.ads.vungle.com
+
+# Added January 2, 2026
+0.0.0.0 content-loader.com
+
+# Added January 10, 2026
+0.0.0.0 iwad.cachefly.net
+
+# Added January 19, 2026
+0.0.0.0 intelcom.615344.vip
+0.0.0.0 615344.vip
+
+# Added January 21, 2026
+0.0.0.0 privacy-sandbox.appsflyersdk.com
+0.0.0.0 api16-dual-event-sg2.pangle.io
+0.0.0.0 api16-access-ttp.tiktokpangle.us
+0.0.0.0 api16-access-wf-sg.pangle.io
+0.0.0.0 prod-mediate-events.applovin.com
+0.0.0.0 logs.ads.vungle.com
+
+# Added January 25, 2026
+0.0.0.0 newsentry.simpals.md
+
+# Added February 14, 2026
+0.0.0.0 datarouter.ol.epicgames.com
+0.0.0.0 rkv1.com
+0.0.0.0 msft-ssp.adnxs.com
+
+# Added February 24, 2026
+0.0.0.0 admixer.md
+
+# Added March 22, 2026
+0.0.0.0 proxy.optoutadvertising.com
+0.0.0.0 cdn.optoutadvertising.com
+
+# Added March 25, 2026
+0.0.0.0 cstasa.ca
+0.0.0.0 porewin.net
+
+# Added March 29, 2026
+0.0.0.0 kra18.com
+
+# Added March 31, 2026
+0.0.0.0 sfrclak.com
+0.0.0.0 callnrwise.com
+
+# Added April 4, 2026
+0.0.0.0 ca-pagei.bond
+0.0.0.0 ontario.ca-pagei.bond
+
+# Added May 3, 2026
+0.0.0.0 stats-collector.cxense.com
+
+# Added May 15, 2026
+0.0.0.0 pustwin.com
+0.0.0.0 nustwin.com
+0.0.0.0 vyroget152.to
+0.0.0.0 deezwin.com
+0.0.0.0 bazowin781.pro
+
+# Added May 26, 2026
+0.0.0.0 flipboxstudio.info
+
+# Added June 2, 2026
+0.0.0.0 ksewqpiyv.com.es
+
+# Added June 11, 2026
+0.0.0.0 proxyjs.brdtnet.com
+0.0.0.0 proxyjs.luminatinet.com
+0.0.0.0 proxyjs.bright-sdk.com
+0.0.0.0 clientsdk.bright-sdk.com
+0.0.0.0 clientsdk.brdtnet.com
+
+# Added June 21, 2026
+0.0.0.0 ecoprintworks.vercel.app
+0.0.0.0 karedeutschland.com
+
+# Added June 26, 2026
+0.0.0.0 app.ledger-lives-desktop.io
+0.0.0.0 ledger-lives-desktop.io
+0.0.0.0 apcoa-park.com
+
+# Added June 30, 2026
+0.0.0.0 block-apple.com
+
+# Added July 5, 2026
+0.0.0.0 0.athwartwhoafat.com
+0.0.0.0 1.athwartwhoafat.com
+0.0.0.0 2.athwartwhoafat.com
+0.0.0.0 3.athwartwhoafat.com
+0.0.0.0 4.athwartwhoafat.com
+0.0.0.0 5.athwartwhoafat.com
+0.0.0.0 6.athwartwhoafat.com
+0.0.0.0 7.athwartwhoafat.com
+0.0.0.0 8.athwartwhoafat.com
+0.0.0.0 9.athwartwhoafat.com
+0.0.0.0 athwartwhoafat.com
+
+# Added July 8, 2026
+0.0.0.0 ledg.erlive.at
+0.0.0.0 ledger.com.ledgerlive.com.es
+
+# Added July 9, 2026
+0.0.0.0 0.blissfullyzebra.com
+0.0.0.0 1.blissfullyzebra.com
+0.0.0.0 2.blissfullyzebra.com
+0.0.0.0 3.blissfullyzebra.com
+0.0.0.0 4.blissfullyzebra.com
+0.0.0.0 5.blissfullyzebra.com
+0.0.0.0 6.blissfullyzebra.com
+0.0.0.0 7.blissfullyzebra.com
+0.0.0.0 8.blissfullyzebra.com
+0.0.0.0 9.blissfullyzebra.com
+0.0.0.0 blissfullyzebra.com
+0.0.0.0 0.ackzany.com
+0.0.0.0 1.ackzany.com
+0.0.0.0 2.ackzany.com
+0.0.0.0 3.ackzany.com
+0.0.0.0 4.ackzany.com
+0.0.0.0 5.ackzany.com
+0.0.0.0 6.ackzany.com
+0.0.0.0 7.ackzany.com
+0.0.0.0 8.ackzany.com
+0.0.0.0 9.ackzany.com
+0.0.0.0 ackzany.com
+0.0.0.0 0.duhquietly.com
+0.0.0.0 1.duhquietly.com
+0.0.0.0 2.duhquietly.com
+0.0.0.0 3.duhquietly.com
+0.0.0.0 4.duhquietly.com
+0.0.0.0 5.duhquietly.com
+0.0.0.0 6.duhquietly.com
+0.0.0.0 7.duhquietly.com
+0.0.0.0 8.duhquietly.com
+0.0.0.0 9.duhquietly.com
+0.0.0.0 duhquietly.com
+0.0.0.0 0.gadzooksrudely.com
+0.0.0.0 1.gadzooksrudely.com
+0.0.0.0 2.gadzooksrudely.com
+0.0.0.0 3.gadzooksrudely.com
+0.0.0.0 4.gadzooksrudely.com
+0.0.0.0 5.gadzooksrudely.com
+0.0.0.0 6.gadzooksrudely.com
+0.0.0.0 7.gadzooksrudely.com
+0.0.0.0 8.gadzooksrudely.com
+0.0.0.0 9.gadzooksrudely.com
+0.0.0.0 gadzooksrudely.com
+0.0.0.0 legder.com-softwares.com
+0.0.0.0 fastway-pay.ocband.org
+
+
+# Added August 5, 2026
+0.0.0.0 info-ledger.org
+0.0.0.0 www.info-ledger.org
+0.0.0.0 ledger-app.at
+0.0.0.0 www.ledger-app.at
+
+# Added September 20, 2026
+0.0.0.0 en-ledger.com
+0.0.0.0 www.en-ledger.com
+0.0.0.0 check-products.org
+
+# Added September 23, 2026
+0.0.0.0 adnz.co
+
+# Added October 18, 2026
+0.0.0.0 analytics.pishow.tv
+
+# Added October 26, 2026
+0.0.0.0 stun.services.mozilla.com
+
+# Added October 28, 2026
+0.0.0.0 blockstreamapp.org
+
+# Added October 29, 2026
+0.0.0.0 kydasvsuegixi.website
+0.0.0.0 brlrxzsmncryn.space
+0.0.0.0 ceufysczareei.website
+0.0.0.0 byccpxuftiemv.website
+0.0.0.0 pluxpdzouwubj.space
+0.0.0.0 umxnezhpntzfp.website
+0.0.0.0 kizftacblijra.space
+0.0.0.0 yofdrnkskrncy.site
+0.0.0.0 czvjpzgtvbssw.space
+0.0.0.0 smhrkykaujlhe.site
+0.0.0.0 rapidadexchange.com
+0.0.0.0 usrpubtrck.com
+0.0.0.0 maturequart.com
+0.0.0.0 0.maturequart.com
+0.0.0.0 1.maturequart.com
+0.0.0.0 2.maturequart.com
+0.0.0.0 3.maturequart.com
+0.0.0.0 4.maturequart.com
+0.0.0.0 5.maturequart.com
+0.0.0.0 6.maturequart.com
+0.0.0.0 7.maturequart.com
+0.0.0.0 8.maturequart.com
+0.0.0.0 9.maturequart.com
+0.0.0.0 softlypacesock.com
+0.0.0.0 0.softlypacesock.com
+0.0.0.0 1.softlypacesock.com
+0.0.0.0 2.softlypacesock.com
+0.0.0.0 3.softlypacesock.com
+0.0.0.0 4.softlypacesock.com
+0.0.0.0 5.softlypacesock.com
+0.0.0.0 6.softlypacesock.com
+0.0.0.0 7.softlypacesock.com
+0.0.0.0 8.softlypacesock.com
+0.0.0.0 9.softlypacesock.com
+0.0.0.0 module-us.msmartlife.net
+0.0.0.0 common.iot.aic.lgthinq.com
+0.0.0.0 aic-common.lgthinq.com
+
+# Added November 9, 2026
+0.0.0.0 cell8012.fra.mobile.bid-eu.ads.aps.amazon-adsystem.com

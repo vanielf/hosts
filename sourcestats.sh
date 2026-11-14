@@ -1,72 +1,82 @@
-#!/bin/sh
+#!/usr/bin/env bash
 
-products="
-alternates/fakenews
-alternates/fakenews-gambling
-alternates/fakenews-gambling-porn
-alternates/fakenews-gambling-porn-social
-alternates/fakenews-gambling-social
-alternates/fakenews-porn
-alternates/fakenews-porn-social
-alternates/fakenews-social
-alternates/gambling
-alternates/gambling-porn
-alternates/gambling-porn-social
-alternates/gambling-social
-alternates/porn
-alternates/porn-social
-alternates/social
-"
+# shellcheck enable=require-variable-braces
 
-lists="
-data/Adguard-cname
-data/Badd-Boyz-Hosts
-data/KADhosts
-data/MetaMask
-data/StevenBlack
-data/URLHaus
-data/UncheckyAds
-data/adaway.org
-data/add.2o7Net
-data/add.Dead
-data/add.Risk
-data/add.Spam
-data/hostsVN
-data/minecraft-hosts
-data/mvps.org
-data/shady-hosts
-data/someonewhocares.org
-data/tiuxo
-data/yoyo.org
-extensions/fakenews
-extensions/gambling
-extensions/porn/brijrajparmar27
-extensions/porn/clefspeare13
-extensions/porn/sinfonietta
-extensions/porn/sinfonietta-snuff
-extensions/porn/tiuxo
-extensions/social/sinfonietta
-extensions/social/tiuxo
-"
+set -euo pipefail
 
-IFS='
-'
+# Ensure required tools are installed
+for tool in git rh; do
+  if ! command -v "${tool}" > /dev/null 2>&1; then
+    echo "Error: ${tool} not found in PATH" >&2
+    exit 1
+  fi
+done
 
-for item in $lists
-do
-  echo -n "" > $item/stats.out
+lists=(
+  alternates/fakenews
+  alternates/fakenews-gambling
+  alternates/fakenews-gambling-only
+  alternates/fakenews-gambling-porn
+  alternates/fakenews-gambling-porn-only
+  alternates/fakenews-gambling-porn-social
+  alternates/fakenews-gambling-porn-social-only
+  alternates/fakenews-gambling-social
+  alternates/fakenews-gambling-social-only
+  alternates/fakenews-only
+  alternates/fakenews-porn
+  alternates/fakenews-porn-only
+  alternates/fakenews-porn-social
+  alternates/fakenews-porn-social-only
+  alternates/fakenews-social
+  alternates/fakenews-social-only
+  alternates/gambling
+  alternates/gambling-only
+  alternates/gambling-porn
+  alternates/gambling-porn-only
+  alternates/gambling-porn-social
+  alternates/gambling-porn-social-only
+  alternates/gambling-social
+  alternates/gambling-social-only
+  alternates/porn
+  alternates/porn-only
+  alternates/porn-social
+  alternates/porn-social-only
+  alternates/social
+  alternates/social-only
+  data/Badd-Boyz-Hosts
+  data/KADhosts
+  data/StevenBlack
+  data/URLHaus
+  data/UncheckyAds
+  data/adaway.org
+  data/add.2o7Net
+  data/add.Dead
+  data/add.Risk
+  data/add.Spam
+  data/hostsVN
+  data/minecraft-hosts
+  data/mvps.org
+  data/someonewhocares.org
+  data/tiuxo
+  data/yoyo.org
+  extensions/fakenews
+  extensions/gambling/bigdargon
+  extensions/gambling/sinfonietta
+  extensions/porn/bigdargon
+  extensions/porn/brijrajparmar27
+  extensions/porn/clefspeare13
+  extensions/porn/sinfonietta
+  extensions/porn/sinfonietta-snuff
+  extensions/social/sinfonietta
+)
 
-  for HASH_DATE in $(git log --reverse --format="%t,%as"  -- $item) 
-  do
-    # echo $item $HASH_DATE
-    IFS=" " 
-    split=(${HASH_DATE//,/ })
-    git checkout ${split[0]} ${item}/hosts 1> /dev/null 2> /dev/null
-    domains=$(rh -q -m $item/hosts)
-    echo  $item ${split[1]} ${domains}
-    echo ${split[1]},${domains} >> ${item}/stats.out
-    IFS='
-'
+for item in "${lists[@]}"; do
+  : > "${item}/stats.out" # truncate file
+
+  git log --reverse --format="%t,%as" -- "${item}" | while IFS=, read -r commit_hash date; do
+    # echo ${item} ${commit_hash} ${date}
+    domains=$(rh -q -m <(git show "${commit_hash}:${item}/hosts"))
+    echo "${item} ${date} ${domains}"
+    echo "${date},${domains}" >> "${item}/stats.out"
   done
-  git checkout HEAD^ ${item}/hosts 1> /dev/null 2> /dev/null
 done
